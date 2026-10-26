@@ -1,5 +1,5 @@
 from voraz import suma_subconjuntos 
-from subset_sum_dp import subset_sum 
+from dinamica import subset_sum
 
 CASOS = [  # (categoría, s, k, esperado)
     # base
